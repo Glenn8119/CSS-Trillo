@@ -510,9 +510,9 @@ body {
     .description {
       padding: 2rem;
       margin-right: 3rem; } }
-  @media only screen and (max-width: 56.25em) {
+  @media only screen and (max-width: 37.5em) {
     .description {
-      margin: 0;
+      margin-right: 0;
       margin-bottom: 3rem; } }
 
 .user-reviews {
